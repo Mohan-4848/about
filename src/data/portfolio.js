@@ -7,7 +7,7 @@ export const profile = {
   education: 'B.Tech CSE · MLRIT',
   school: 'MLR Institute of Technology, Hyderabad',
   availability: 'Open to software engineering roles',
-  email: 'contact@mohanbalaji.in',
+  email: 'mohanbalaji4848@gmail.com',
   domain: 'mohanbalaji.in',
   // Drop your résumé into /public (e.g. public/resume.pdf) and set this to '/resume.pdf'
   // to show a "Résumé" button in the hero and command palette.
