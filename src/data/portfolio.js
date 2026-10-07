@@ -13,8 +13,8 @@ export const profile = {
   // to show a "Résumé" button in the hero and command palette.
   resume: '',
   socials: {
-    github: 'https://github.com/mohanbalaji',
-    linkedin: 'https://linkedin.com/in/mohanbalaji',
+    github: 'https://github.com/Mohan-4848',
+    linkedin: 'https://linkedin.com/in/badrimohanbalaji',
   },
 };
 
